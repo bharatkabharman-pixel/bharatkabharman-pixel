@@ -11,9 +11,9 @@
 $bunty = [
     'name'       => 'Kamlesh Kumar Jangir (Bunty)',
     'role'       => 'Full Stack Developer & Cloud Architect',
-    'location'   => 'India 🇮🇳',
-    'working_on' => 'buyfyn.com',
+    'location'   => 'Rajasthan, India 🇮🇳',
     'languages'  => ['PHP', 'JavaScript', 'Bash'],
+    'expertise'  => ['Laravel', 'Node.js', 'React', 'AWS', 'Cloud Architecture'],
     'motto'      => 'Build. Deploy. Scale. Repeat.',
 ];
 ```
@@ -51,8 +51,12 @@ $bunty = [
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatkabharman-pixel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkabharman-pixel&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatkabharman-pixel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkabharman-pixel&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkabharman-pixel&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -61,17 +65,18 @@ $bunty = [
 
 - ⚡ **Scalable REST APIs** with Laravel & Node.js
 - ☁️ **Cloud Architectures** on AWS (EC2, SES, S3, RDS)
-- 🛒 **E-commerce Platforms** — currently building buyfyn.com
+- 🛒 **E-commerce Platforms** for clients across India
 - 🔐 **Secure Authentication** systems
 - 📧 **Transactional Email** systems with AWS SES
+- 🏗️ **Multi-tenant SaaS** applications
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-jangir-872710201/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kishan.jangir.503)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbyjangid1278@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://buyfyn.com)
 
 ---
 
